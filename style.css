@@ -8,14 +8,14 @@ body {
 }
 
 p {
-	color: white;
+	color: #dedede;
 	font-size: 500%;
 	text-align: center;
     text-shadow:
-    -2px -2px 0 #000,  
-     2px -2px 0 #000,
-    -2px  2px 0 #000,
-     2px  2px 0 #000;
+    -2px -2px 0 #0000,  
+     2px -2px 0 #0000,
+    -2px  2px 0 #0000,
+     2px  2px 0 #0000002e;
      font-family: 'Dosis', sans-serif;
      -moz-user-select: -moz-none;
    -khtml-user-select: none;
